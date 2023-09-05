@@ -1,6 +1,6 @@
 # Kipkoech Benedict
 
-**benepontuagi@gmail.com**
+**pontuagi@gmail.com**
 
 ## Software Engineer
 
