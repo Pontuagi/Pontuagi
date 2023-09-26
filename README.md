@@ -17,7 +17,8 @@ who seek to leverage technology for a better world
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -31,3 +32,7 @@ who seek to leverage technology for a better world
 ![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=pontuagi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pontuagi)](https://github.com/pontuagi/github-readme-stats)
+
+### Connect with me
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
