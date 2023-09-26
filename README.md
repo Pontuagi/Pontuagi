@@ -14,3 +14,6 @@ who seek to leverage technology for a better world
 - I'm currently learnig Javascript, ReactJs, Django and NodeJs
 - I'm open to collaboration on any projects.
 - I love writing atuomation scripts.
+
+
+### :hammer_and_wrench: Languages and Tools :
