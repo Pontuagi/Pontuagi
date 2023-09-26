@@ -28,4 +28,4 @@ who seek to leverage technology for a better world
 </div>
 
 ### :fire: My Stats :
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=pontuagi)
