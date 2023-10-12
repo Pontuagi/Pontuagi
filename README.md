@@ -16,6 +16,8 @@ who seek to leverage technology for a better world
 - I love writing atuomation scripts.
 
 
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -30,7 +32,11 @@ who seek to leverage technology for a better world
 </div>
 
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pontuagi)](https://github.com/pontuagi/github-readme-stats)
+
+
 
 ### Connect with me
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
