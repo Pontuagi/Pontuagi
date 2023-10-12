@@ -11,7 +11,7 @@ who seek to leverage technology for a better world
 
 - I am currently based in Nairobi, Kenya
 - I have a strong foundation in C, Python.
-- I'm currently learnig Javascript, ReactJs, Django and NodeJs
+- I'm currently learnig Javascript, React, and Django
 - I'm open to collaboration on any projects.
 - I love writing atuomation scripts.
 
@@ -29,8 +29,6 @@ who seek to leverage technology for a better world
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=pontuagi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pontuagi)](https://github.com/pontuagi/github-readme-stats)
 
