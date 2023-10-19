@@ -1,7 +1,5 @@
 # Kipkoech Benedict
 
-**pontuagi@gmail.com**
-
 ## Software Engineer
 
 Hello. I'm a software engineer with a passion of solving everyday problems with technology.
