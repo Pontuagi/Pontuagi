@@ -3,7 +3,7 @@
 ## Software Engineer
 
 Hello. I'm a software engineer with a passion of solving everyday problems with technology.
-Currently pursuing ALX-Software Engineering course.
+I am a recent graduate of Alx Africa with fullstack Software Engineering
 I look forward to collaborating and learning from like minded peers,
 who seek to leverage technology for a better world
 
