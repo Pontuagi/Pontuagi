@@ -2,21 +2,27 @@
 
 ## Software Engineer
 
-Hello. I'm a software engineer with a passion of solving everyday problems with technology.
-I am a recent graduate of Alx Africa with fullstack Software Engineering
-I look forward to collaborating and learning from like minded peers,
-who seek to leverage technology for a better world
+Hello.  
+
+I am a software engineer with a passion for solving everyday problems using technology.  
+
+With over two years of experience in development, I have honed my skills in problem-solving, testing, documentation, and adhering to best coding practices.  
+
+I bring strong leadership qualities, commitment, and meticulous attention to detail when tackling challenging tasks.   
 
 - I am currently based in Nairobi, Kenya
-- I have a strong foundation in C, Python.
-- I'm currently learnig Javascript, React, and Django
+- I have a strong foundation in C, Python, Javascript and Dart.
+- I am comfortable with React, Django, Next,js and Flutter frameworks.
 - I'm open to collaboration on any projects.
-- I love writing atuomation scripts.
+- I love writing atuomation scripts and algorithmns.
 
-
+<br/>
 
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<br/>
+
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -30,11 +36,13 @@ who seek to leverage technology for a better world
 </div>
 
 
-
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pontuagi)](https://github.com/pontuagi/github-readme-stats)
 
 
+<br/>
 
 ### Connect with me
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
